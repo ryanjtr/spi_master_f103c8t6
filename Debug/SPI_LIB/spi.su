@@ -1,0 +1,15 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:302:22:LL_SPI_Enable	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:709:26:LL_SPI_IsActiveFlag_RXNE	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:720:26:LL_SPI_IsActiveFlag_TXE	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:771:26:LL_SPI_IsActiveFlag_BSY	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:812:22:LL_SPI_ClearFlag_OVR	24	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:1045:25:LL_SPI_ReceiveData8	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_spi.h:1068:22:LL_SPI_TransmitData8	24	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:803:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:832:22:LL_GPIO_ResetOutputPin	16	static
+../SPI_LIB/spi.c:9:6:spi_transmit	32	static
+../SPI_LIB/spi.c:63:6:spi_receive	40	static
+../SPI_LIB/spi.c:128:6:spi_transmit_receive	40	static
+../SPI_LIB/spi.c:192:6:read_id_manufacter	24	static
+../SPI_LIB/spi.c:203:6:reset_device	16	static
+../SPI_LIB/spi.c:218:6:write_data	32	static
